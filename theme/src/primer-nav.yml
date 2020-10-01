@@ -1,20 +1,6 @@
-- title: What's new
-  url: https://primer.style/news
-- title: Design
-  children:
-    - title: Interface guidelines
-      url: https://primer.style/design
-    - title: Octicons
-      url: https://primer.style/octicons
-    - title: Prototyping
-      url: https://primer.style/css/tools/prototyping
-    - title: Presentations
-      url: https://primer.style/presentations
-- title: Development
-  children:
-    - title: Primer CSS
-      url: https://primer.style/css
-    - title: Primer React
-      url: https://primer.style/components
-- title: About
-  url: https://primer.style/team
+- title: injoon5's website
+  url: https://injoon5.ga
+- title: A URL shortener
+  url: https://urlsh.kro.kr
+ - title: injoon5's GitHub
+  url: https://github.com/injoon5
