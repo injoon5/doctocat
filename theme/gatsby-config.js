@@ -3,9 +3,9 @@ const path = require('path')
 module.exports = themeOptions => {
   return {
     siteMetadata: {
-      title: 'Doctocat',
-      shortName: 'Doctocat',
-      description: 'A Gatsby theme for creating Primer documentation sites',
+      title: 'injoon5 DOCS',
+      shortName: 'ij5 DOCS',
+      description: 'A site for injoon stuff documentation.',
       imageUrl:
         'https://user-images.githubusercontent.com/10384315/53922681-2f6d3100-402a-11e9-9719-5d1811c8110a.png',
     },
