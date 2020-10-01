@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: 'Doctocat',
-    shortName: 'Doctocat',
-    description: 'A Gatsby theme for creating Primer documentation sites',
+    title: 'injoon5 DOCS',
+    shortName: 'ij5 DOCS',
+    description: 'A documentation page for injoon5 stuff.',
   },
-  pathPrefix: '/doctocat',
+  pathPrefix: '/',
   __experimentalThemes: [
     {
       resolve: '@primer/gatsby-theme-doctocat',
